@@ -9,6 +9,14 @@ const gifStages = [
     "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
 ]
 
+const yesTeasePokes = [
+    "try saying no first... I bet you want to know what happens 😏",
+    "go on, hit no... just once 👀",
+    "you're missing out 😈",
+    "click no, I dare you 😏"
+    "Don't do this to me..."
+]
+
 const noMessages = [
     "No",
     "If you say no, I will be really sad...",
